@@ -1,7 +1,7 @@
 package personajes;
 
 /**
- * Esta es una clase que representa un Extraterrestre
+ * Esta es una cla  mvjhvhhse que representa un Extraterrestre
  * en nuestro juego. 
  * @author Diego
  * 
